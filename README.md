@@ -4,7 +4,7 @@
   
   <h1>👋 Hi, I'm <span style="color:#e91e63;">Shivani Sharma</span>!</h1>
   
-  <h3>🚀 Machine Learning Engineer | Data Scientist | AI Explorer</h3>
+  <h3>🚀 Data Analyst | Machine Learning Enthusiast | AI Explorer</h3>
   
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
 
